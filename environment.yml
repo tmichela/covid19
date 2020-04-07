@@ -6,5 +6,6 @@ dependencies:
 - matplotlib
 - pandas
 - ipywidgets
+- ipympl
 - pip:
   - countryinfo
